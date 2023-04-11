@@ -4,15 +4,13 @@
 
 ## Menlo Park N.J. July 14, 1885
 
-Edison's Home in Menlo Park 
-
-> come back to graphic 
+Edison's Home in Menlo Park <come back to graphic> 
 
 ### Page 1
 
 .ve-media https://edisondigital.rutgers.edu/iiif/MA011 left
 
-Dot introduced me to a new day at 5:30 am. Arose toileted quickly breakfasted then went from boat to street car asked colored gentleman, how long before car left worked his articulating apparatus so weakly I didnt hear word he said. its nice to be a little deaf when travelling you can ask everbody directions then pump your imagination for the answer, it strengthens this faculty. Took train leaving at 7 from Providence for the metropolis of culture arrived there 9 am "Coupaid" it to Damons office waited ¾ hour for his arrival. Then left for the Chateau-sur-le-Mer If I stay there much longer Mrs. G will think me a bore perhaps she thinks I make only two visits each year in one place each of 6 months Noticed there was no stewardess on the ferryboat, strange omisssion considering the length of the voyage and the swell made by the tri-monthly boat to Nantasket. Man with a dusty railroad Co Expression let down a sort of portcullis 
+==Dot=={ Q117536384} introduced me to a new day at 5:30 am. Arose toileted quickly breakfasted then went from boat to street car asked colored gentleman, how long before car left worked his articulating apparatus so weakly I didnt hear word he said. its nice to be a little deaf when travelling you can ask everbody directions then pump your imagination for the answer, it strengthens this faculty. Took train leaving at 7 from Providence for the metropolis of culture arrived there 9 am "Coupaid" it to Damons office waited ¾ hour for his arrival. Then left for the Chateau-sur-le-Mer If I stay there much longer Mrs. G will think me a bore perhaps she thinks I make only two visits each year in one place each of 6 months Noticed there was no stewardess on the ferryboat, strange omisssion considering the length of the voyage and the swell made by the tri-monthly boat to Nantasket. Man with a dusty railroad Co Expression let down a sort of portcullis 
 
 ### Page 2
 
