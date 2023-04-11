@@ -1,3 +1,5 @@
+.ve-header "Diary #3" https://edisondigital.rutgers.edu/iiif/MA011 "Menlo Park N.J. July 14, 1885" pct:30,30,60,40 center sticky
+
 # Diary #3 
 
 ## Menlo Park N.J. July 14, 1885
