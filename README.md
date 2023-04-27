@@ -29,9 +29,3 @@ inches for fear that Mrs G might think I had an inexhaustable supply of dirty sh
 .ve-media https://edisondigital.rutgers.edu/iiif/MA011 seq=4 left
 
 The frequency of their reception will confirm or disaffirm my conjectures as to the proximity of a serious catastrophe— A post office courtship is a novelty to me, so I have resolved to follow up this matter for the experience which I will obtain— This may come handy should "My head ever become the dupe of my heart" as Papa Rochefacauld puts it.— In evening went out on sea wall—noticed a strange phosphorecent light in the west, probably caused by a baby moon just going down Chinaward■thought at first the Aurora Boreallis had moved out west— Went to bed early dreamed of [deamon?]d Demon with eyes four hundred feet apart.
-
-.ve-graphic [https://www.flickr.com/photos/mastatelibrary/9458639237/in/album-72157634970087059/](https://drive.google.com/drive/my-drive) 
-
-Woodside Villa Boston Harbor 
-
-> come back to graphic 
